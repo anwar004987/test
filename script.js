@@ -1,4 +1,4 @@
-<script type="text/javascript" src="script.js"></script>
+
 
 const facebookButton = document.querySelector('.fa-facebook');
 const instagramButton = document.querySelector('.fa-instagram');
